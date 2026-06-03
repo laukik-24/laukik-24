@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-laukik.vercel.app/](https://portfolio-laukik.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-laukik.vercel.app/](https://laukik.vercel.app/)
 
 - 💬 Ask me about **MEARN , Next.js**
 
